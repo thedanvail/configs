@@ -1,1 +1,1 @@
-# configs
+Various configs for terminal
